@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: 'Fraunces', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --color-warm-black: #120f0d;
+  --color-espresso: #1a1613;
+  --color-timber: #26201b;
+  --color-timber-light: #362e27;
+  --color-bronze: #c2884a;
+  --color-bronze-hover: #d89954;
+  --color-cream: #ede8e1;
+  --color-parchment: #f7f4ef;
+  --color-muted-stone: #9e9488;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #120f0d;
+  color: #ede8e1;
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-serif);
+}

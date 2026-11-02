@@ -1,0 +1,6 @@
+{
+  "name": "St Ali Coffee & Brunch",
+  "description": "Iconic Melbourne specialty coffee roaster and brunch kitchen in South Melbourne. Micro-lot single origins, artisanal all-day dining, table reservations, and laneway heritage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
