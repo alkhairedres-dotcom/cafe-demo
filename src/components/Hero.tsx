@@ -72,7 +72,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenBooking }) => {
           <div className="lg:col-span-6">
             <div className="relative rounded-2xl overflow-hidden border border-[#362E27] shadow-2xl bg-[#1A1613]">
               <img
-                src="/hero_cafe_industrial_1793629156050.jpg"
+                src="/hero.jpg"
                 alt="St Ali Coffee & Brunch industrial warehouse cafe interior in South Melbourne"
                 className="w-full h-[380px] sm:h-[460px] lg:h-[500px] object-cover hover:scale-[1.02] transition-transform duration-700"
                 referrerPolicy="no-referrer"
